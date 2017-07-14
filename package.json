@@ -1,0 +1,23 @@
+{
+  "name": "tweet-destroyer",
+  "version": "1.0.0",
+  "description": "A Tweet Destroyer",
+  "main": "destroyer.js",
+  "scripts": {
+    "start": "node destroyer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernanmendez/Tweet-Destroyer.git"
+  },
+  "author": "Hernan Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernanmendez/Tweet-Destroyer/issues"
+  },
+  "homepage": "https://github.com/hernanmendez/Tweet-Destroyer#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
